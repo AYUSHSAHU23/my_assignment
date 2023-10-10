@@ -1,1 +1,21 @@
+1. What is GitHub? 
+Ans- This is a website that allows Developers can create repositories to store their code, documentation, and projects etc.
+These repositories can be public, private, or shared with specific collaborators.it is a hub for the open-source community. 
+Developers and organizations can showcase their projects, contribute to others' projects, and follow users and repositories of interest.
+It also offers features like stars, forks, and trending repositories to help users discover popular projects.
+How do you create a GitHub account?
+2.What is a repository in GitHub?
+Ans- developers can upload their code or projects in the form of folders.and these folders are called repository in the github website.
+How can you create a new repository on GitHub?
 
+What is a README.md file, and why is it important in a GitHub repository?
+How do you add files to a GitHub repository?
+How can you commit changes to a repository in GitHub?
+What is a pull request, and how do you create one?
+What is a fork in GitHub?
+How do you clone a repository to your local machine?
+How do you push changes from your local machine to a GitHub repository?
+What is a branch in GitHub, and why would you use it?
+How can you merge a branch into the main/master branch?
+What is the purpose of the "Issues" tab in a GitHub repository?
+How do you close an issue on GitHub?
