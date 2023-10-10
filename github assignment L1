@@ -12,8 +12,6 @@ These repositories can be public, private, or shared with specific collaborators
 Ans- Once you're signed in, you'll be taken to your GitHub dashboard.
 If not, click on your profile picture in the upper-right corner and select "Your repositories" from the dropdown menu.
 Click on the green "New" button located on the upper-right side of the screen, or you can click on the "+ New" dropdown menu and select "Repository."
-Also you can create repository by command prompt.
-
 
 4. What is a README.md file, and why is it important in a GitHub repository?
 Ans- It provides essential information about the project's purpose, usage, and how others can contribute or use the software effectively. 
@@ -25,10 +23,21 @@ Click the "Add file" button, and then select "Create new file."
 Enter a filename in the text box.
 Optionally, provide a commit message.
 Click the "Commit new file" button to add the file to the repository.
+"OR"
+you can use command prompt:
+to add file : git add "file name"
 
 6.  How can you commit changes to a repository in GitHub?
+Ans. when you are completed your changes then go to the command prompt.
+and then write :
+git status
+git add "your repository file name"
+git commit -m "modified or whatever you want to write"
+git push -u origin main
+then whatever you changed in the file is also modified in the github repository.
 
 7.  What is a pull request, and how do you create one?
+
 8.  What is a fork in GitHub?
 9.  How do you clone a repository to your local machine?
 10.  How do you push changes from your local machine to a GitHub repository?
