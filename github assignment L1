@@ -25,16 +25,13 @@ Optionally, provide a commit message.
 Click the "Commit new file" button to add the file to the repository.
 "OR"
 you can use command prompt:
-to add file : git add "file name"
+to add file : 
+git init
+git add "file name"
 
 6.  How can you commit changes to a repository in GitHub?
-Ans. when you are completed your changes then go to the command prompt.
-and then write :
-git status
-git add "your repository file name"
-git commit -m "modified or whatever you want to write"
-git push -u origin main
-then whatever you changed in the file is also modified in the github repository.
+Ans. firstly go to your repository then click to the file which you want change and
+then press on the pencil icon and make change and then see in upper right corner "change commit" click it then your commit will change.
 
 7.  What is a pull request, and how do you create one?
 Ans. A pull request (PR) in GitHub is a way to propose changes to a repository hosted on GitHub. 
@@ -55,9 +52,24 @@ On Windows, you can use Command Prompt.
 For clone a repository: git clone https://github.com/AYUSHSAHU23/demo
 
 10.  How do you push changes from your local machine to a GitHub repository?
+Ans. git status 
+git add "your repository file name"
+git commit -m "modified or whatever you want to write"
+git push -u origin main
+then whatever you changed in the file is also modified in the github repository.
 
 11.  What is a branch in GitHub, and why would you use it?
+Ans. branches in GitHub are a fundamental and powerful feature that enables organized, collaborative, and efficient software development.
+They allow developers to work on different aspects of a project concurrently, maintain a clear history of changes, and manage code quality effectively. 
+Branches help ensure that changes are thoroughly tested and reviewed before they are integrated into the main codebase,
+which contributes to the stability and reliability of software projects.
+
 12.  How can you merge a branch into the main/master branch?
+
 13.  What is the purpose of the "Issues" tab in a GitHub repository?
+
 14.  How do you close an issue on GitHub?
+
 15. How do you create a GitHub account?
+Ans: firstly go to browser and search github and click it. 
+and then click on create new account and write your gmail. and after that your account will be created.
