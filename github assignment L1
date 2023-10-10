@@ -37,8 +37,18 @@ git push -u origin main
 then whatever you changed in the file is also modified in the github repository.
 
 7.  What is a pull request, and how do you create one?
+Ans. A pull request (PR) in GitHub is a way to propose changes to a repository hosted on GitHub. 
+It's a fundamental feature of the platform that facilitates collaboration among developers or contributors. When you create a pull request, 
+you are essentially asking the maintainers of a repository to review and merge your proposed changes into the main codebase.
+
+to create - Visit the original repository on GitHub, and you should see a banner at the top of the page that suggests creating a pull request from your recently pushed branch. 
+Click on that banner, or you can navigate to the "Pull Requests" tab and click the "New Pull Request" button.
 
 8.  What is a fork in GitHub?
+Ans. In GitHub, a fork is a copy of a repository that is hosted under your own GitHub account. 
+When you fork a repository, you create a separate and independent copy of the original repository, 
+allowing you to make changes to it without affecting the original project. 
+
 9.  How do you clone a repository to your local machine?
 10.  How do you push changes from your local machine to a GitHub repository?
 11.  What is a branch in GitHub, and why would you use it?
