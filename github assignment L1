@@ -3,19 +3,37 @@ Ans- This is a website that allows Developers can create repositories to store t
 These repositories can be public, private, or shared with specific collaborators.it is a hub for the open-source community. 
 Developers and organizations can showcase their projects, contribute to others' projects, and follow users and repositories of interest.
 It also offers features like stars, forks, and trending repositories to help users discover popular projects.
-How do you create a GitHub account?
-2.What is a repository in GitHub?
-Ans- developers can upload their code or projects in the form of folders.and these folders are called repository in the github website.
-How can you create a new repository on GitHub?
 
-What is a README.md file, and why is it important in a GitHub repository?
-How do you add files to a GitHub repository?
-How can you commit changes to a repository in GitHub?
-What is a pull request, and how do you create one?
-What is a fork in GitHub?
-How do you clone a repository to your local machine?
-How do you push changes from your local machine to a GitHub repository?
-What is a branch in GitHub, and why would you use it?
-How can you merge a branch into the main/master branch?
-What is the purpose of the "Issues" tab in a GitHub repository?
-How do you close an issue on GitHub?
+2. What is a repository in GitHub?
+Ans- developers can upload their code or projects in the form of folders.and these folders are called repository in the github website.
+These repositories can be public, private, or shared with specific collaborators.
+
+3. How can you create a new repository on GitHub?
+Ans- Once you're signed in, you'll be taken to your GitHub dashboard.
+If not, click on your profile picture in the upper-right corner and select "Your repositories" from the dropdown menu.
+Click on the green "New" button located on the upper-right side of the screen, or you can click on the "+ New" dropdown menu and select "Repository."
+Also you can create repository by command prompt.
+
+
+4. What is a README.md file, and why is it important in a GitHub repository?
+Ans- It provides essential information about the project's purpose, usage, and how others can contribute or use the software effectively. 
+A well-structured and informative README helps make your project more accessible and encourages collaboration and adoption.
+
+5. How do you add files to a GitHub repository?
+Ans. If you're creating a new file, navigate to your repository on GitHub.
+Click the "Add file" button, and then select "Create new file."
+Enter a filename in the text box.
+Optionally, provide a commit message.
+Click the "Commit new file" button to add the file to the repository.
+
+6.  How can you commit changes to a repository in GitHub?
+
+7.  What is a pull request, and how do you create one?
+8.  What is a fork in GitHub?
+9.  How do you clone a repository to your local machine?
+10.  How do you push changes from your local machine to a GitHub repository?
+11.  What is a branch in GitHub, and why would you use it?
+12.  How can you merge a branch into the main/master branch?
+13.  What is the purpose of the "Issues" tab in a GitHub repository?
+14.  How do you close an issue on GitHub?
+15. How do you create a GitHub account?
