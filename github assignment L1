@@ -52,7 +52,10 @@ allowing you to make changes to it without affecting the original project.
 9.  How do you clone a repository to your local machine?
 Ans. You'll need to use a command-line interface to run Git commands. 
 On Windows, you can use Command Prompt.
+For clone a repository: git clone https://github.com/AYUSHSAHU23/demo
+
 10.  How do you push changes from your local machine to a GitHub repository?
+
 11.  What is a branch in GitHub, and why would you use it?
 12.  How can you merge a branch into the main/master branch?
 13.  What is the purpose of the "Issues" tab in a GitHub repository?
