@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AyushSahu
+- 👀 I’m interested in Data science and Analytics.
+- 🌱 I’m currently learning Data Science.
+- my mail - sahuayush222.as@gmail.com
