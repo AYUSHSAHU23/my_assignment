@@ -1,8 +1,10 @@
-What is K-means clustering?
-Initialization:
+*What is K-means clustering?*
+Ans- KMeans groups similar data together into "clusters."
 
 How is the initial value of the centroids usually determined in K-means clustering?
-Algorithm Steps:
+Ans- The initial values of centroids in K-means clustering can significantly impact the final clustering results,
+as the algorithm may converge to different local optima based on the initial centroid placements. 
+There are several common methods for initializing the centroids:
 
 Briefly describe the steps involved in the K-means clustering algorithm.
 Python Implementation:
